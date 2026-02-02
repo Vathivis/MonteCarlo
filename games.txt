@@ -1,0 +1,111 @@
+# meta
+SEASON,LEC 2026 Versus
+AS_OF,2026-02-02
+FORMAT,single_round_robin,1
+PLAYOFF_SLOTS,8
+
+# teams
+TEAM,Fnatic
+TEAM,G2 Esports
+TEAM,GIANTX
+TEAM,Karmine Corp
+TEAM,Karmine Corp Blue
+TEAM,Los Ratones
+TEAM,Movistar KOI
+TEAM,Natus Vincere
+TEAM,Shifters
+TEAM,SK Gaming
+TEAM,Team Heretics
+TEAM,Team Vitality
+
+# schedule
+# GAME,<team1>,<team2>,<winner>  (winner blank = unplayed)
+
+# Week 1 Day 1 (2026-01-17)
+GAME,Los Ratones,Fnatic,Fnatic
+GAME,Shifters,GIANTX,GIANTX
+GAME,Team Heretics,Natus Vincere,Natus Vincere
+GAME,Team Vitality,SK Gaming,Team Vitality
+GAME,Karmine Corp Blue,Karmine Corp,Karmine Corp
+GAME,Movistar KOI,G2 Esports,Movistar KOI
+
+# Week 1 Day 2 (2026-01-18)
+GAME,Team Heretics,Shifters,Shifters
+GAME,Los Ratones,Karmine Corp Blue,Karmine Corp Blue
+GAME,Team Vitality,Natus Vincere,Natus Vincere
+GAME,SK Gaming,Fnatic,SK Gaming
+GAME,G2 Esports,GIANTX,GIANTX
+GAME,Movistar KOI,Karmine Corp,Movistar KOI
+
+# Week 1 Day 3 (2026-01-19)
+GAME,Natus Vincere,Fnatic,Fnatic
+GAME,Team Vitality,Karmine Corp Blue,Team Vitality
+GAME,Team Heretics,GIANTX,Team Heretics
+GAME,Shifters,Movistar KOI,Shifters
+GAME,Los Ratones,Karmine Corp,Karmine Corp
+GAME,SK Gaming,G2 Esports,G2 Esports
+
+# Week 2 Day 1 (2026-01-24)
+GAME,Los Ratones,GIANTX,GIANTX
+GAME,Natus Vincere,Karmine Corp Blue,Natus Vincere
+GAME,Team Vitality,Team Heretics,Team Heretics
+GAME,Shifters,G2 Esports,G2 Esports
+GAME,SK Gaming,Karmine Corp,Karmine Corp
+GAME,Movistar KOI,Fnatic,Movistar KOI
+
+# Week 2 Day 2 (2026-01-25)
+GAME,Team Vitality,Shifters,Team Vitality
+GAME,SK Gaming,Natus Vincere,Natus Vincere
+GAME,Team Heretics,Los Ratones,Los Ratones
+GAME,Movistar KOI,Karmine Corp Blue,Movistar KOI
+GAME,Fnatic,GIANTX,Fnatic
+GAME,Karmine Corp,G2 Esports,Karmine Corp
+
+# Week 2 Day 3 (2026-01-26)
+GAME,SK Gaming,Karmine Corp Blue,SK Gaming
+GAME,Shifters,Los Ratones,Los Ratones
+GAME,Team Vitality,Fnatic,Fnatic
+GAME,Team Heretics,G2 Esports,G2 Esports
+GAME,Natus Vincere,Karmine Corp,Karmine Corp
+GAME,Movistar KOI,GIANTX,GIANTX
+
+# Week 3 Day 1 (2026-01-31)
+GAME,Team Heretics,SK Gaming,SK Gaming
+GAME,Natus Vincere,GIANTX,GIANTX
+GAME,Shifters,Fnatic,Shifters
+GAME,Karmine Corp Blue,G2 Esports,G2 Esports
+GAME,Team Vitality,Karmine Corp,Team Vitality
+GAME,Movistar KOI,Los Ratones,Los Ratones
+
+# Week 3 Day 2 (2026-02-01)
+GAME,Shifters,Natus Vincere,Natus Vincere
+GAME,Team Heretics,Karmine Corp Blue,Team Heretics
+GAME,Team Vitality,GIANTX,Team Vitality
+GAME,SK Gaming,Movistar KOI,Movistar KOI
+GAME,Karmine Corp,Fnatic,Karmine Corp
+GAME,Los Ratones,G2 Esports,Los Ratones
+
+# Week 3 Day 3 (2026-02-02)
+GAME,Karmine Corp Blue,Fnatic,
+GAME,SK Gaming,GIANTX,
+GAME,Natus Vincere,Los Ratones,
+GAME,Team Vitality,G2 Esports,
+GAME,Team Heretics,Movistar KOI,
+GAME,Shifters,Karmine Corp,
+
+# Week 4 Day 1 (2026-02-07)
+GAME,Team Heretics,Fnatic,
+GAME,Shifters,Karmine Corp Blue,
+GAME,SK Gaming,Los Ratones,
+GAME,Natus Vincere,G2 Esports,
+GAME,Team Vitality,Movistar KOI,
+GAME,Karmine Corp,GIANTX,
+
+# Week 4 Day 2 (2026-02-08)
+GAME,Team Vitality,Los Ratones,
+GAME,Karmine Corp Blue,GIANTX,
+GAME,SK Gaming,Shifters,
+GAME,Natus Vincere,Movistar KOI,
+GAME,Team Heretics,Karmine Corp,
+GAME,Fnatic,G2 Esports,
+

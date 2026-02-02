@@ -1,0 +1,29 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "(Windows) Launch",
+			"type": "cppvsdbg",
+			"request": "launch",
+			"program": "${workspaceFolder}/bin/league_mc.exe",
+			"args": [],
+			"stopAtEntry": false,
+			"cwd": "${workspaceFolder}",
+			"preLaunchTask": "build (cl x64 via vswhere)",
+			"environment": [],
+			"console": "integratedTerminal"
+		},
+		{
+			"name": "(Windows) Launch Release",
+			"type": "cppvsdbg",
+			"request": "launch",
+			"program": "${workspaceFolder}/bin/release/league_mc.exe",
+			"args": [],
+			"stopAtEntry": false,
+			"cwd": "${workspaceFolder}",
+			"preLaunchTask": "build (cl x64 release via vswhere)",
+			"environment": [],
+			"console": "integratedTerminal"
+		}
+	]
+}
