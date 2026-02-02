@@ -7,6 +7,7 @@ This repo is a scratchpad for small Monte Carlo simulations.
 - **LEC 2026 Versus (League of Legends)**: BO1 single round-robin with top-8 playoffs.
   - Source data lives in `games.txt` (human-editable schedule with results).
   - Simulation code is in `league_mc.cpp` and `main.cpp`.
+  - Tie resolution: head-to-head within tied group, then Strength of Victory (SoV), then coin-flip if still tied.
 
 ## Build & run (Windows / MSVC)
 
